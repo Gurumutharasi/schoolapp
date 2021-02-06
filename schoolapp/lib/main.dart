@@ -80,13 +80,6 @@ class _MyAppState extends State<MyApp> {
               ],
             ),
           ),
-          Container(
-
-              // padding: EdgeInsets.symmetric(horizontal: 20.0, vertical: 10.0),
-              color: Colors.red,
-              child: Placeholder(
-                color: Colors.amber,
-              )),
         ]),
       )
     ];
